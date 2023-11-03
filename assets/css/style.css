@@ -1,0 +1,73 @@
+body {
+  background: radial-gradient(ellipse at center, #00348d 0%, #222222 100%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 2em;
+}
+
+.logo {
+  border-radius: 50%;
+  height: 150px;
+  margin: 0;
+  width: 150px;
+}
+
+.navbar-list {
+  display: flex;
+  margin-bottom: 0;
+}
+
+.navbar-list li {
+  list-style: none;
+  margin-right: 3em;
+  text-transform: uppercase;
+}
+
+.navbar-list li a {
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+.navbar-list li a:hover {
+  color: #ffd900;
+  font-size: 1.3em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+}
+
+/* About me */
+.about-section {
+  color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.about-content {
+  flex: 1;
+  max-width: 60em;
+}
+
+.about-content h2 {
+  font-size: 2rem;
+}
+
+.about-content p {
+  margin-bottom: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
