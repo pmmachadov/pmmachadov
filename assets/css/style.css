@@ -185,7 +185,8 @@ body.nav-active {
 }
 
 .h3 {
-  font-size: 3rem;
+  font-size: 2rem;
+  line-height: 1.5;
 }
 
 .h4 {
@@ -478,7 +479,6 @@ body.nav-active {
 }
 
 .project-card .card-subtitle {
-  font-size: var(--fontSize-10);
   letter-spacing: 2px;
   margin-block-end: 10px;
   text-transform: uppercase;
@@ -508,6 +508,7 @@ body.nav-active {
   overflow: auto;
   padding-block-end: 5px;
   scroll-snap-type: inline mandatory;
+  margin: 0 20rem;
 }
 
 .slider-list::-webkit-scrollbar {
