@@ -388,8 +388,8 @@ body.nav-active {
   -o-border-radius: 500px;
   -webkit-border-radius: 500px;
   border-radius: 500px;
-  position: relative;
   height: 70%;
+  position: relative;
 }
 
 .hero-banner::after {
@@ -505,10 +505,10 @@ body.nav-active {
   align-items: flex-start;
   display: flex;
   gap: 30px;
+  margin: 0 20rem;
   overflow: auto;
   padding-block-end: 5px;
   scroll-snap-type: inline mandatory;
-  margin: 0 20rem;
 }
 
 .slider-list::-webkit-scrollbar {
@@ -524,12 +524,8 @@ body.nav-active {
   #CONTACT
 \*-----------------------------------*/
 .communication {
-  align-content: center;
   align-items: center;
   display: flex;
-  gap: 5rem;
-  justify-content: flex-start;
-  margin-top: 15rem;
 }
 
 .contact .section-title {
@@ -611,6 +607,14 @@ textarea.input-field {
   color: hsla(240, 1%, 83%, 1);
 }
 
+.email {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .email-icon {
   fill: hsla(240, 1%, 83%, 1);
   height: 30px;
@@ -651,18 +655,20 @@ h2 {
   padding: 32px 16px;
 }
 
+svg {
+  height: 8rem;
+}
+
 /*-----------------------------------*\
   #MEDIA QUERIES
 \*-----------------------------------*/
-
 @media (min-width: 100px) {
-
   .container {
+    align-content: center;
     display: grid;
     gap: 50px;
-    justify-items: center;
     justify-content: center;
-    align-content: center;
+    justify-items: center;
   }
 }
 
@@ -680,14 +686,14 @@ h2 {
    * REUSED STYLE
    */
     .container {
+      align-content: center;
+      display: grid;
+      gap: 50px;
+      justify-content: center;
+      justify-items: center;
       margin-inline: auto;
       max-width: 540px;
       width: 100%;
-      display: grid;
-      gap: 50px;
-      justify-items: center;
-      justify-content: center;
-      align-content: center;
     }
 
     /**
@@ -745,7 +751,6 @@ h2 {
  * responsive for large than 992px screen
  */
       @media (min-width: 992px) {
-
 
         /**
    * REUSED STYLE
