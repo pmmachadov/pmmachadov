@@ -1,0 +1,1 @@
+This is a version of my personal portfolio website. It contains a brief description of myself, my skills, and my projects. It also contains a contact form and examples of my work.
