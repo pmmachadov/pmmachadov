@@ -1,0 +1,14 @@
+# Archivos y directorios generados por Node.js
+node_modules/
+
+# Archivos de configuración de Visual Studio Code
+.vscode/
+
+# Archivos de configuración de GitHub
+.github/
+
+# Archivos de configuración de Docker
+.devcontainer/
+
+# Archivos de contenido innecesario
+.content/
