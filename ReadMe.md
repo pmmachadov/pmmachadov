@@ -43,16 +43,6 @@ I specialize in creating responsive interfaces, RESTful APIs, and efficient tech
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile/Scrum-009FDA?logo=scrumban&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pmmachadov&show_icons=true&theme=tokyonight&hide_border=true" alt="Pablo's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pmmachadov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ## 🎯 Featured Projects
 
