@@ -2,8 +2,8 @@
 
 ## 💻 Full Stack Web Developer | Front-End Specialist | IT & AI Support
 
-🌍 Barcelona, Spain  
-📧 pmmachadov@gmail.com | 📱 +34 641 95 76 33  
+🌍 Barcelona, Spain
+📧 pmmachadov@gmail.com | 📱 +34 641 95 76 33
 💼 [LinkedIn](https://linkedin.com/in/pmmachadov) | 🌐 [Portfolio](https://pablomachado.dev)
 
 ---
@@ -40,6 +40,7 @@ I specialize in creating responsive interfaces, RESTful APIs, and efficient tech
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile/Scrum-009FDA?logo=scrumban&logoColor=white)
 
 ---
@@ -57,7 +58,7 @@ I specialize in creating responsive interfaces, RESTful APIs, and efficient tech
 Online course platform with JWT authentication, student dashboard, and course management.
 - **Stack:** React, Node.js, Express, MongoDB, Socket.io
 
-### ❓ [Quiz App](https://github.com/pmmachadov/quiz-app-front) 
+### ❓ [Quiz App](https://github.com/pmmachadov/quiz-app-front)
 Interactive quiz application with separate frontend and backend.
 - **Stack:** React, Node.js, MongoDB
 
@@ -79,7 +80,7 @@ Interactive Connect 4 game.
 
 - **IT & AI Project Support** @ Formació y Treball *(Oct 2025 - Present)*
   - Technical support, AI project management, automation, and documentation
-  
+
 - **Front-End Developer Intern** @ Awaq.org *(Jul - Sep 2025)*
   - Interface development with React, RESTful API integration, Agile methodologies
 
