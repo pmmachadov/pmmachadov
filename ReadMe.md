@@ -47,8 +47,10 @@ I specialize in creating responsive interfaces, RESTful APIs, and efficient tech
 
 ## 📊 GitHub Stats
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmmachadov&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmmachadov&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pmmachadov&show_icons=true&theme=tokyonight&hide_border=true" alt="Pablo's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pmmachadov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
@@ -61,10 +63,6 @@ Online course platform with JWT authentication, student dashboard, and course ma
 ### ❓ [Quiz App](https://github.com/pmmachadov/quiz-app-front)
 Interactive quiz application with separate frontend and backend.
 - **Stack:** React, Node.js, MongoDB
-
-### 🌦️ [Weather App](https://github.com/pmmachadov/weather-app)
-Weather application with external API integration.
-- **Stack:** React, JavaScript, CSS
 
 ### 🎴 [Super Flashcards](https://github.com/pmmachadov/super-flashcards)
 Study/memorization flashcards app.
