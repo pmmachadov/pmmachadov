@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Pablo Machado
 
-## 💻 Full Stack Web Developer | Front-End Specialist | IT & AI Support
+## 💻 Front-End Developer
 
 🌍 Barcelona, Spain
 📧 pmmachadov@gmail.com | 📱 +34 641 95 76 33
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Full Stack Web Developer with experience in **React, TypeScript, Node.js, and MongoDB**, complemented by solid background in **IT support and AI projects**.
+Front-End Web Developer with experience in **React, TypeScript, Node.js, and MongoDB**, complemented by solid background in **IT support and AI projects**.
 
 I specialize in creating responsive interfaces, RESTful APIs, and efficient technology solutions. I have previous experience in international customer service in English for the U.S. market.
 
